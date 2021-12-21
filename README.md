@@ -3,4 +3,8 @@
 reto platzi #1
 
 ## Grilla
-<image src="./images/reto1.png" alt="grilla">
+<image src="./imagenes/reto1.png" alt="grilla">
+
+
+reto platzi #2
+<image src="">
